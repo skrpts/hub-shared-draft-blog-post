@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "ad1b031a-3b12-4a56-9466-a2b01815c387"
+name: "draft-blog-post"
+display_name: "Blog Drafting"
+description: "Writes a complete blog post from a content brief — the core generation step"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-draft-blog-post"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
