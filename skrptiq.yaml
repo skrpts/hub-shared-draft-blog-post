@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "ad1b031a-3b12-4a56-9466-a2b01815c387"
+id: "1415dbf8-835b-4802-bedd-2b250f5a107f"
 name: "draft-blog-post"
 display_name: "Blog Drafting"
 description: "Writes a complete blog post from a content brief — the core generation step"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
