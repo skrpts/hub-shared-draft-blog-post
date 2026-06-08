@@ -3,7 +3,7 @@ id: "1415dbf8-835b-4802-bedd-2b250f5a107f"
 name: "draft-blog-post"
 display_name: "Blog Drafting"
 description: "Writes a complete blog post from a content brief — the core generation step"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
