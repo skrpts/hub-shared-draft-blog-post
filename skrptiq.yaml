@@ -3,7 +3,7 @@ id: "1415dbf8-835b-4802-bedd-2b250f5a107f"
 name: "draft-blog-post"
 display_name: "Blog Drafting"
 description: "Writes a complete blog post from a content brief — the core generation step"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T14:41:18.780Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/draft-blog-post/security"

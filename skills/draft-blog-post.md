@@ -7,7 +7,7 @@ tags: [Production, Content, Writing]
 context_params:
   voice_profile:
     label: "Voice Profile"
-    description: "Creator's writing style for personalised drafting"
+    description: "Creator's writing style for personalized drafting"
     required: false
   audience_profile:
     label: "Audience Profile"
